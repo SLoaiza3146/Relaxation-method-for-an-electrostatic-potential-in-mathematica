@@ -1,0 +1,1 @@
+# Relaxation-method-for-an-electrostatic-potential-in-mathematica
