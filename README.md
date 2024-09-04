@@ -18,5 +18,5 @@ This repository contains a Mathematica program based on the iterative relaxation
 - **Mathematica**: Ensure you have Mathematica installed on your computer as this software is required to run the notebooks and scripts.
 
 ## Future Updates
--**Detailed Methodology**: Upcoming updates will expand on the explanations of the iterative relaxation method and program details to enhance user understanding.
--**Usability Improvements**: Plans to improve the interface and usability of the Mathematica scripts for broader applications and ease of use.
+- **Detailed Methodology**: Upcoming updates will expand on the explanations of the iterative relaxation method and program details to enhance user understanding.
+- **Usability Improvements**: Plans to improve the interface and usability of the Mathematica scripts for broader applications and ease of use.
